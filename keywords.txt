@@ -1,0 +1,4 @@
+KRwifi	KEYWORD1
+setWifi	KEYWORD1
+httpGet	KEYWORD1
+getData	KEYWORD1
