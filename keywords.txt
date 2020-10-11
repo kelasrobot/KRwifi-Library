@@ -1,4 +1,7 @@
 KRwifi	KEYWORD1
 setWifi	KEYWORD1
 httpGet	KEYWORD1
+httpGet2	KEYWORD1
 getData	KEYWORD1
+httpPOST KEYWORD1
+statusPengiriman KEYWORD1
